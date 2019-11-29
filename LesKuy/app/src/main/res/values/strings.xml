@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ngeles Kuy</string>
+    <string name="title">Course Name</string>
+    <string name="sub_address">Address</string>
+    <string name="telephone">No Telp: </string>
+    <string name="description">About: </string>
+    <string name="address">Alamat: </string>
+    <string name="template"> Loream ipsum dolor amet Loream ipsum dolor amet Loream ipsum dolor amet </string>
+    <string name="phone_number">0213456789: </string>
+
+</resources>
